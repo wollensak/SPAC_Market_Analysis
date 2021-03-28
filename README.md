@@ -1,2 +1,2 @@
 # SPAC_Market_Analysis
-SEC scraping and SPAC statistical analysis using Python. 
+SEC scraping and SPAC statistical analysis using Python. The first contains source code used to scrape SEC EDGAR data to determine the accession number and the CIK of the filing agent. The second makes use of public datasets, made available on the Securities and Exchange Commission’s data repository EDGAR, to examine factors that would lead to their success in finding a merger target to take public.
