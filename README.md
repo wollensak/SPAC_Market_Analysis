@@ -1,2 +1,2 @@
 # SPAC_Market_Analysis
-SEC scraping and SPAC statistical analysis
+SEC scraping and SPAC statistical analysis using Python. 
